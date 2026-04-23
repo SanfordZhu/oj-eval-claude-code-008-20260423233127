@@ -1,0 +1,10 @@
+# 2277 if else: check if two input chars are equal
+# Correct solution, 8 instructions, gives 4375 points
+[48]<48
+[49]<49
+A<I
+B<I
+[A]<1
+C<[B]
+O<[C+48]
+Z<1
