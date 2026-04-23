@@ -1,0 +1,5 @@
+# 2279 echo - repeat input to output until EOF
+[0]<1
+A<I
+Z<[A]
+O<A
